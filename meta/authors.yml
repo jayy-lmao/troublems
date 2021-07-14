@@ -1,6 +1,9 @@
 authors:
   - slug: wutali
     name: Takahiro Fujiwara
-    introduction:
-      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+    introduction: Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
       Python / Golang / React
+  - slug: sniffly-boy
+    name: Slavoj Zizek
+    introduction: My relation towards tulips is [inaudible mumble] I think they're
+      disgusting *sniff*.
